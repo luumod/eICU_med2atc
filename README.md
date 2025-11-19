@@ -1,3 +1,5 @@
+> If you need any data, please open an issue and I will handle it promptly.
+
 # eICU_med2atc    
 
 The goal of this repository is to solve the problem that medications in the `medications.csv` table of the **`eICU`** dataset cannot be converted to ATC level 3 codes, which prevents coarse-grained analyses and discussions.
