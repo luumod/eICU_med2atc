@@ -1,1 +1,1 @@
-auxiliary file
+drugbank_drugs_info.csv: drug information table downloaded from drugbank here https://drive.google.com/file/d/1EzIlVeiIR6LFtrBnhzAth4fJt6H_ljxk/view?usp=sharing, which is used to map drug name to drug SMILES string.
